@@ -1,0 +1,6 @@
+C:\Users\Jeremy\Documents\My Documents\Projects\Libraries\Matrix\Matrix\Matrix\bin\Debug\Matrix.dll
+C:\Users\Jeremy\Documents\My Documents\Projects\Libraries\Matrix\Matrix\Matrix\bin\Debug\Matrix.pdb
+C:\Users\Jeremy\Documents\My Documents\Projects\Libraries\Matrix\Matrix\Matrix\obj\Debug\Matrix.csprojAssemblyReference.cache
+C:\Users\Jeremy\Documents\My Documents\Projects\Libraries\Matrix\Matrix\Matrix\obj\Debug\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Documents\My Documents\Projects\Libraries\Matrix\Matrix\Matrix\obj\Debug\Matrix.dll
+C:\Users\Jeremy\Documents\My Documents\Projects\Libraries\Matrix\Matrix\Matrix\obj\Debug\Matrix.pdb
